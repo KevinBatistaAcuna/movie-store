@@ -1,0 +1,824 @@
+{
+  "peliculas": [
+    {
+      "nombre": "Una esposa de mentira",
+      "fecha": 2011,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=xuZnmYjAKww"
+    },
+    {
+      "nombre": "La vida es bella",
+      "fecha": 1997,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=Tw33Xs4Q2r4"
+    },
+    {
+      "nombre": "Forrest Gump",
+      "fecha": 1994,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=3lOZG6YkWi4"
+    },
+    {
+      "nombre": "Titanic",
+      "fecha": 1997,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=9nFTsyTdHH0"
+    },
+    {
+      "nombre": "Eduardo manostijeras",
+      "fecha": 1990,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=Fre-_06-96w"
+    },
+    {
+      "nombre": "Up",
+      "fecha": 2009,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=qoZo9MiICo0"
+    },
+    {
+      "nombre": "Gladiador",
+      "fecha": 2000,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=lsDdsvKVbMo"
+    },
+    {
+      "nombre": "Monsters Inc",
+      "fecha": 2001,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=uzkkh-1A_kY"
+    },
+    {
+      "nombre": "Monsters University",
+      "fecha": 2013,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=oyaRXGFOvOs"
+    },
+    {
+      "nombre": "Toy Story 1",
+      "fecha": 1995,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=m9CvO0s6Tzw"
+    },
+    {
+      "nombre": "Toy Story 2",
+      "fecha": 1999,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=shYEcWkifdQ"
+    },
+    {
+      "nombre": "Toy Story 3",
+      "fecha": 2010,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=s73x_Hio_0w"
+    },
+    {
+      "nombre": "El Rey Leon 1",
+      "fecha": 1994,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=p5BwFmPdkC0"
+    },
+    {
+      "nombre": "El Rey Leon 2",
+      "fecha": 1998,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=aylCi6thmHM"
+    },
+    {
+      "nombre": "El Rey Leon 3",
+      "fecha": 2004,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=bPQXoYT17M8"
+    },
+    {
+      "nombre": "El Pianista",
+      "fecha": 2002,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=WA6dylOhbNM"
+    },
+    {
+      "nombre": "Shrek 1",
+      "fecha": 2001,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=B88JfTyJ1Fw"
+    },
+    {
+      "nombre": "Shrek 2",
+      "fecha": 2004,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=xBxVgh-kgAI"
+    },
+    {
+      "nombre": "Shrek 3",
+      "fecha": 2007,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=MuUwZD2cb4A"
+    },
+    {
+      "nombre": "Shrek 4",
+      "fecha": 2010,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=RSkUcS_Maow"
+    },
+    {
+      "nombre": "Avatar",
+      "fecha": 2009,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=g5deg0HgCmY"
+    },
+    {
+      "nombre": "Regreso al futuro 1",
+      "fecha": 1985,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=NDS1myoYUzs"
+    },
+    {
+      "nombre": "Regreso al futuro 2",
+      "fecha": 1989,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=Bmr2fgaoSxs"
+    },
+    {
+      "nombre": "Regreso al futuro 3",
+      "fecha": 1990,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=WmBX7CA-AAc"
+    },
+    {
+      "nombre": "Buscando a Nemo",
+      "fecha": 2003,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=X-Z-gQ8mKs0"
+    },
+    {
+      "nombre": "Buscando a Dory",
+      "fecha": 2016,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=AmyUkJBq3pg"
+    },
+    {
+      "nombre": "El padrino",
+      "fecha": 1972,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=gCVj1LeYnsc"
+    },
+    {
+      "nombre": "Corazon Valiente",
+      "fecha": 1995,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=1NJO0jxBtMo"
+    },
+    {
+      "nombre": "V de Vendetta",
+      "fecha": 2005,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=e4UQV1pXuYg"
+    },
+    {
+      "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+      "fecha": 2001,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=7wK0FfNd18o"
+    },
+    {
+      "nombre": "El Señor de los Anillos: Las Dos Torres",
+      "fecha": 2002,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=f9W1l7E5bHg"
+    },
+    {
+      "nombre": "El Señor de los Anillos: El Retorno del Rey",
+      "fecha": 2003,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=cUuz3-QCg58"
+    },
+    {
+      "nombre": "El Hobbit: Un Viaje Inesperado",
+      "fecha": 2012,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=z5eC1mf914w"
+    },
+    {
+      "nombre": "El Hobbit: La Desolacion del Smaug",
+      "fecha": 2013,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=CvDQLGsnbvE"
+    },
+    {
+      "nombre": "El Hobbit: La Batalla de los 5 Ejercitos",
+      "fecha": 2003,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=jMuceulJQy8"
+    },
+    {
+      "nombre": "El Origen",
+      "fecha": 2010,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=RyfbchpdJ6U"
+    },
+    {
+      "nombre": "El Sexto Sentido",
+      "fecha": 1999,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=00jnKiyUN7k"
+    },
+    {
+      "nombre": "Matrix",
+      "fecha": 1990,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=BRuDS0wcnW8"
+    },
+    {
+      "nombre": "Salvando al Solado Ryan",
+      "fecha": 1998,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=RYID71hYHzg"
+    },
+    {
+      "nombre": "El Laberinto del Fauno",
+      "fecha": 2006,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=L-o3l_Vbd4E"
+    },
+    {
+      "nombre": "Saw",
+      "fecha": 2004,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=WrFTmZwe5wc"
+    },
+    {
+      "nombre": "Saw 2",
+      "fecha": 2005,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=Lq2AzZB6DUE"
+    },
+    {
+      "nombre": "Saw 3",
+      "fecha": 2006,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=88G8UBwJALM"
+    },
+    {
+      "nombre": "Saw 4",
+      "fecha": 2007,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=PYQ75b89PPw"
+    },
+    {
+      "nombre": "Saw 5",
+      "fecha": 2008,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=88pB8m-ZxrM"
+    },
+    {
+      "nombre": "Saw 6",
+      "fecha": 2009,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=bRAwJn6BIBg"
+    },
+    {
+      "nombre": "Saw 7",
+      "fecha": 2010,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=S3p0EKTHKhk"
+    },
+    {
+      "nombre": "Saw 8",
+      "fecha": 2017,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=7sVu31ssE6c"
+    },
+    {
+      "nombre": "300",
+      "fecha": 2007,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=aIIF4WP72AQ"
+    },
+    {
+      "nombre": "Ratatouille",
+      "fecha": 2007,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=b5ZNJoS2RtI"
+    },
+    {
+      "nombre": "El Show de Truman",
+      "fecha": 1998,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=loTIzXAS7v4"
+    },
+    {
+      "nombre": "La vida de Pi",
+      "fecha": 2012,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=g57hTJ4jh88"
+    },
+    {
+      "nombre": "Hereditary",
+      "fecha": 2018,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=X42F7Yw7uvw"
+    },
+    {
+      "nombre": "Nace una Estrella",
+      "fecha": 2018,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=wnxAOt6q458"
+    },
+    {
+      "nombre": "Aniquilacion",
+      "fecha": 2018,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=coNZHFhwPaA"
+    },
+    {
+      "nombre": "Ralph el Demoledor",
+      "fecha": 2012,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=SI8mo4w9i2s"
+    },
+    {
+      "nombre": "Wifi Ralph",
+      "fecha": 2018,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=ws0h0Khkt8s"
+    },
+    {
+      "nombre": "El Conjuro 1",
+      "fecha": 2013,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=oUyHULb7xDI"
+    },
+    {
+      "nombre": "El Conjuro 2",
+      "fecha": 2016,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=fFS929KKVAQ"
+    },
+    {
+      "nombre": "Anabelle",
+      "fecha": 2014,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=t5-9hrkexZI"
+    },
+    {
+      "nombre": "Anabelle: Creation",
+      "fecha": 2017,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=pZCOZGiOScE"
+    },
+    {
+      "nombre": "La Monja",
+      "fecha": 2018,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=xz0_50iNY6g"
+    },
+    {
+      "nombre": "La llorona",
+      "fecha": 2019,
+      "cantidadDiscos": 1,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=WJ2YlFrAx6I"
+    }
+  ],
+  "sagas": [
+    {
+      "nombre": "Monsters",
+      "fecha": 2001,
+      "cantidadDiscos": 2,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=uzkkh-1A_kY"
+    },
+    {
+      "nombre": "Toy Story",
+      "fecha": 1995,
+      "cantidadDiscos": 2,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=m9CvO0s6Tzw"
+    },
+    {
+      "nombre": "El Rey Leon",
+      "fecha": 1994,
+      "cantidadDiscos": 3,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=p5BwFmPdkC0"
+    },
+    {
+      "nombre": "Saw",
+      "fecha": 2004,
+      "cantidadDiscos": 8,
+      "costo": 5000,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=WrFTmZwe5wc"
+    },
+    {
+      "nombre": "El Señor de los Anillos",
+      "fecha": 2001,
+      "cantidadDiscos": 3,
+      "costo": 5000,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=7wK0FfNd18o"
+    },
+    {
+      "nombre": "El Hobbit",
+      "fecha": 2012,
+      "cantidadDiscos": 3,
+      "costo": 5000,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=z5eC1mf914w"
+    },
+    {
+      "nombre": "Shrek",
+      "fecha": 2001,
+      "cantidadDiscos": 4,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=B88JfTyJ1Fw"
+    },
+    {
+      "nombre": "Regreso al Futuro",
+      "fecha": 1985,
+      "cantidadDiscos": 3,
+      "costo": 5000,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=NDS1myoYUzs"
+    },
+    {
+      "nombre": "Buscando a Nemo y Dory",
+      "fecha": 2003,
+      "cantidadDiscos": 2,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=X-Z-gQ8mKs0"
+    },
+    {
+      "nombre": "Ralph el Demoledor",
+      "fecha": 2012,
+      "cantidadDiscos": 2,
+      "costo": 5000,
+      "genero": "Animada",
+      "trailer": "https://www.youtube.com/watch?v=SI8mo4w9i2s"
+    },
+    {
+      "nombre": "El Conjuro Universo",
+      "fecha": 2013,
+      "cantidadDiscos": 6,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=oUyHULb7xDI"
+    }
+  ],
+  "series": [
+    {
+      "nombre": "Breaking Bad",
+      "fecha": 2008,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=rJnjxvgvkBM"
+    },
+    {
+      "nombre": "Game of Thrones",
+      "fecha": 2011,
+      "cantidadDiscos": 8,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=vCzW8RzDV2o"
+    },
+    {
+      "nombre": "Hijos de la Anarquia",
+      "fecha": 2008,
+      "cantidadDiscos": 7,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=vobivF2NZio"
+    },
+    {
+      "nombre": "Los Soprano",
+      "fecha": 1999,
+      "cantidadDiscos": 6,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=_RLMKuf23PE"
+    },
+    {
+      "nombre": "Vikingos",
+      "fecha": 2013,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Accion",
+      "trailer": "https://www.youtube.com/watch?v=43BD0V-xZRA"
+    },
+    {
+      "nombre": "Stranger Things",
+      "fecha": 2016,
+      "cantidadDiscos": 3,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=PWGeOlpK_Eg"
+    },
+    {
+      "nombre": "The Wire",
+      "fecha": 2002,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=9qK-VGjMr8g"
+    },
+    {
+      "nombre": "Sherlock",
+      "fecha": 2010,
+      "cantidadDiscos": 4,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=2PG5F3SJxbo"
+    },
+    {
+      "nombre": "Los Originales",
+      "fecha": 2013,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=GXrDYboUnnw"
+    },
+    {
+      "nombre": "The Walking Dead",
+      "fecha": 2010,
+      "cantidadDiscos": 9,
+      "costo": 2500,
+      "genero": "Terror",
+      "trailer": "https://www.youtube.com/watch?v=ZA21VAgd6L4"
+    },
+    {
+      "nombre": "Friends",
+      "fecha": 1994,
+      "cantidadDiscos": 10,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=vobivF2NZio"
+    },
+    {
+      "nombre": "Dexter",
+      "fecha": 2006,
+      "cantidadDiscos": 8,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+    },
+    {
+      "nombre": "Big Bang Theory",
+      "fecha": 2007,
+      "cantidadDiscos": 12,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=WBb3fojgW0"
+    },
+    {
+      "nombre": "Mad Men",
+      "fecha": 2007,
+      "cantidadDiscos": 7,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=LfuMhXcLa-Q"
+    },
+    {
+      "nombre": "House of Cards",
+      "fecha": 2013,
+      "cantidadDiscos": 6,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=ULwUzF1q5w4"
+    },
+    {
+      "nombre": "Lost",
+      "fecha": 2004,
+      "cantidadDiscos": 6,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=1mEaYnlWujs"
+    },
+    {
+      "nombre": "Suits",
+      "fecha": 2011,
+      "cantidadDiscos": 8,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=85z53bAebsI"
+    },
+    {
+      "nombre": "Fringe",
+      "fecha": 2008,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=nXwsAjtcO34"
+    },
+    {
+      "nombre": "Daredevil",
+      "fecha": 2015,
+      "cantidadDiscos": 3,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=UldyKvKdsEM"
+    },
+    {
+      "nombre": "Modern Family",
+      "fecha": 2009,
+      "cantidadDiscos": 10,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=aogZUDx51vQ"
+    },
+    {
+      "nombre": "Orphan Black",
+      "fecha": 2013,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=WY8irg1Ep_g"
+    },
+    {
+      "nombre": "Hannibal",
+      "fecha": 2013,
+      "cantidadDiscos": 3,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=LcXRx2iJHFk"
+    },
+    {
+      "nombre": "Los 100",
+      "fecha": 2014,
+      "cantidadDiscos": 7,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=2NUnsXkcX4E"
+    },
+    {
+      "nombre": "Black Mirror",
+      "fecha": 2011,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Ficcion",
+      "trailer": "https://www.youtube.com/watch?v=qFPK5ISGOSw"
+    },
+    {
+      "nombre": "Prison Break",
+      "fecha": 2005,
+      "cantidadDiscos": 5,
+      "costo": 2500,
+      "genero": "Suspenso",
+      "trailer": "https://www.youtube.com/watch?v=AL9zLctDJaU"
+    },
+    {
+      "nombre": "Sense 8",
+      "fecha": 20015,
+      "cantidadDiscos": 2,
+      "costo": 2500,
+      "genero": "Drama",
+      "trailer": "https://www.youtube.com/watch?v=ryzWVVuJi5g"
+    },
+    {
+      "nombre": "How I Met Your Mother",
+      "fecha": 2005,
+      "cantidadDiscos": 9,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=nXwsAjtcO34"
+    },
+    {
+      "nombre": "El Príncipe de Bel-Air",
+      "fecha": 1990,
+      "cantidadDiscos": 6,
+      "costo": 2500,
+      "genero": "Comedia",
+      "trailer": "https://www.youtube.com/watch?v=_u6vYpbfCmQ"
+    }
+  ]
+}
