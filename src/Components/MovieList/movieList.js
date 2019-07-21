@@ -24,16 +24,13 @@ class MovieList extends Component {
           this.setState({
             MovieList: response.data,isFetch: false
         });
-        console.log('data -> ' +  response.data.json())
       })
       .catch(function (error) {
         console.log(error);
-      });
-     
-        
-        
-
+      });     
       };
+
+      
 
     render() {
 
@@ -46,14 +43,30 @@ class MovieList extends Component {
           }
  
      
-       let items =  this.state.MovieList.peliculas.map((item, index) => 
+       let peliculas =  this.state.MovieList.peliculas.map((item, index) => 
             <Link to = {'/' + item.nombre} >       
                 <p>{item.nombre}</p>
             </Link>
         );
+
+        let sagas =  this.state.MovieList.sagas.map((item, index) => 
+        <Link to = {'/' + item.nombre} >       
+            <p>{item.nombre}</p>
+        </Link>
+    );
+
+    let series =  this.state.MovieList.series.map((item, index) => 
+    <Link to = {'/' + item.nombre} >       
+        <p>{item.nombre}</p>
+    </Link>
+    );  
         
         return (<Router>
-            <CarouselSlider slideCpnts = {items} />
+            <CarouselSlider slideCpnts = {peliculas} />
+
+            <CarouselSlider slideCpnts = {sagas} />
+
+            <CarouselSlider slideCpnts = {series} />
         </Router>);
     }
 }
