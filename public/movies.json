@@ -6,7 +6,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/xuZnmYjAKww"
+      "trailer": "https://www.youtube.com/embed/xuZnmYjAKww",
+      "url": "https://imagenes.gatotv.com/categorias/peliculas/posters/una_esposa_de_mentira.jpg" 
     },
     {
       "nombre": "La vida es bella",
@@ -14,7 +15,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/Tw33Xs4Q2r4"
+      "trailer": "https://www.youtube.com/embed/Tw33Xs4Q2r4",
+      "url":"https://static.pelisplus.co/movie/cover/original/2c24df549af43aaac7a7448bc493deaa.jpg"
     },
     {
       "nombre": "Forrest Gump",
@@ -22,7 +24,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/3lOZG6YkWi4"
+      "trailer": "https://www.youtube.com/embed/3lOZG6YkWi4",
+      "url": "https://i.pinimg.com/originals/65/e1/a1/65e1a11946727ccd85ddcad20a3a7afa.jpg"
     },
     {
       "nombre": "Titanic",
@@ -30,7 +33,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/9nFTsyTdHH0"
+      "trailer": "https://www.youtube.com/embed/9nFTsyTdHH0",
+      "url":"https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201711/21/00106510738336____1__640x640.jpg"
     },
     {
       "nombre": "Eduardo manostijeras",
@@ -38,7 +42,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/Fre-_06-96w"
+      "trailer": "https://www.youtube.com/embed/Fre-_06-96w",
+      "url":"https://thinkaboutfilms.files.wordpress.com/2015/01/eduardo-manostijeras-portada-l_cover.jpg"
     },
     {
       "nombre": "Up",
@@ -46,7 +51,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/qoZo9MiICo0"
+      "trailer": "https://www.youtube.com/embed/qoZo9MiICo0",
+      "url":"https://www.z-arts.org/wp-content/uploads/2014/07/Up-2009.jpg"
     },
     {
       "nombre": "Gladiador",
@@ -54,7 +60,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/lsDdsvKVbMo"
+      "trailer": "https://www.youtube.com/embed/lsDdsvKVbMo",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/61ZYE105P2L.jpg"
     },
     {
       "nombre": "Monsters Inc",
@@ -62,7 +69,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/uzkkh-1A_kY"
+      "trailer": "https://www.youtube.com/embed/uzkkh-1A_kY",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/51djexrn8SL.jpg"      
     },
     {
       "nombre": "Monsters University",
@@ -70,7 +78,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/oyaRXGFOvOs"
+      "trailer": "https://www.youtube.com/embed/oyaRXGFOvOs",
+      "url":"https://ib4.hulu.com/user/v3/artwork/63e29c59-640c-4536-b6b5-4d1ed29c85c7?base_image_bucket_name=image_manager&base_image=1cf77287-2925-44b3-b332-1655a2408bf9&size=400x600&format=jpeg"  
     },
     {
       "nombre": "Toy Story 1",
@@ -78,7 +87,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/m9CvO0s6Tzw"
+      "trailer": "https://www.youtube.com/embed/m9CvO0s6Tzw",
+      "url":"https://i0.wp.com/media.babyoye.com/images/product/large/BPDIS00926_1.JPG"    
     },
     {
       "nombre": "Toy Story 2",
@@ -86,7 +96,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/shYEcWkifdQ"
+      "trailer": "https://www.youtube.com/embed/shYEcWkifdQ",
+      "url":"https://musicart.xboxlive.com/7/0bef1100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"     
     },
     {
       "nombre": "Toy Story 3",
@@ -94,7 +105,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/s73x_Hio_0w"
+      "trailer": "https://www.youtube.com/embed/s73x_Hio_0w",
+      "url":"https://ib2.hulu.com/user/v3/artwork/f07fda57-08f0-495d-aae6-2c7e6b7da29a?base_image_bucket_name=hummus&base_image=99c47ba6-f4c9-4d47-8d94-eee6ab5d9a39&size=400x600&format=jpeg"  
     },
     {
       "nombre": "El Rey Leon 1",
@@ -102,7 +114,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/p5BwFmPdkC0"
+      "trailer": "https://www.youtube.com/embed/p5BwFmPdkC0",
+      "url":"http://es.web.img2.acsta.net/medias/nmedia/18/68/20/31/19785394.jpg"    
     },
     {
       "nombre": "El Rey Leon 2",
@@ -110,7 +123,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/aylCi6thmHM"
+      "trailer": "https://www.youtube.com/embed/aylCi6thmHM",
+      "url":"https://vignette.wikia.nocookie.net/doblaje/images/8/8e/El_Rey_Le%C3%B3n_2.jpg/revision/latest?cb=20171105153628&path-prefix=es"    
     },
     {
       "nombre": "El Rey Leon 3",
@@ -118,7 +132,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/bPQXoYT17M8"
+      "trailer": "https://www.youtube.com/embed/bPQXoYT17M8",
+      "url":"https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2012/10/17/33733851.jpg"    
     },
     {
       "nombre": "El Pianista",
@@ -126,7 +141,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/WA6dylOhbNM"
+      "trailer": "https://www.youtube.com/embed/WA6dylOhbNM",
+      "url":"https://i.pinimg.com/originals/37/d8/a4/37d8a451c26c2cda670bce7b635f81b2.jpg"    
     },
     {
       "nombre": "Shrek 1",
@@ -134,7 +150,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/B88JfTyJ1Fw"
+      "trailer": "https://www.youtube.com/embed/B88JfTyJ1Fw",
+      "url":"https://imagessl9.casadellibro.com/m/ig/9/6439419.jpg"    
     },
     {
       "nombre": "Shrek 2",
@@ -142,7 +159,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/xBxVgh-kgAI"
+      "trailer": "https://www.youtube.com/embed/xBxVgh-kgAI",
+      "url":"https://http2.mlstatic.com/shrek-2-dreamworks-dvd-original-D_NQ_NP_692215-MLA25162821957_112016-F.jpg"    
     },
     {
       "nombre": "Shrek 3",
@@ -150,7 +168,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/MuUwZD2cb4A"
+      "trailer": "https://www.youtube.com/embed/MuUwZD2cb4A",
+      "url":"https://1.bp.blogspot.com/-8uFgLB6m-W4/V7v6DD52OdI/AAAAAAAAAD4/zb2H325J4-kEj7VX3zGB26p__k4GeyL0ACLcB/s1600/shrek%2B3.jpg"    
     },
     {
       "nombre": "Shrek 4",
@@ -158,7 +177,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/RSkUcS_Maow"
+      "trailer": "https://www.youtube.com/embed/RSkUcS_Maow",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/81nmtQ6sufL._SY445_.jpg"    
     },
     {
       "nombre": "Avatar",
@@ -166,7 +186,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/g5deg0HgCmY"
+      "trailer": "https://www.youtube.com/embed/g5deg0HgCmY",
+      "url":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUSEhMVFhUXFxUYGBcVFhgaFxkYFxcYGBgXGBUYHSggGBonHhgWITEhJSktLi4uGB8zODMtNygtLisBCgoKDg0OGhAQGy0lICYtLi0tLS0tLS0tLS0tLS0tLS0tLi0wLS0vLS8tLS0tLS0tLS0tLS8tLS0tLS0tLS0tLf/AABEIAPwAyAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAUBAwYCB//EAEAQAAIBAgQDBQQHBwMFAQEAAAECEQADBBIhMQUGQRMiUWFxMoGRoQcUI0JSkrEzYnKCwdHwQ6LxFVOjsuGDFv/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EAC4RAAICAQIFAgUDBQAAAAAAAAABAhEDEiEEEzFBUSJhMpGhwdFCcYEFFCPh8f/aAAwDAQACEQMRAD8A+L9lVta5VxjMirh7hZ07RQAJNuFOffQQ6b/iFVPa10Z53vFlLWrLxYGHKuLpVrYFtRmXtYBi0nsZQdZBmt3p7FFZX4flnFuwRMPdZj2kKFM/ZtkuadMrEKZ6kCvWB5Xxd05bdi4xyM8ZT7KsyH350ZAOrCKnf/3GILFnSzcDdvmV0JRu3vLiHzAMP9RFIjoIM1jh3Ot+zlypZYKFCqyGAUxD4lGhWGq3LjR0iAQaj0jcgXOXcQtoXmsuLZGYOR3SMwSZ/iIHqRWzD8s4l7a3UsXGtswRWCkhnJyhRG5mR66VLxHO2JfDHCPkNshBOQ5xludpIaYBZss6bKu1MDzletJZVEszYYNbuMhNwAXGu5MxMZCzNMAHWJq60lXZGxXLl+1m7W06ZSgbMIjOGKa+YViP4TU9OTMX2htdhc7QLmKhZIWcskDbXSvGI5xe5be01qxkZbSBQrjsxZW4ts2znmR2r+1m3qfd+kC89x7j27LG4qh1ZbjIcj9orZWuGCG6A5fKtE4mbUiNY5TvlUcWbhW5IRsphoBOnuVj/KfCpuH5QxB7OLDntf2fdPe7ubT+XX0rVh+d7ii13LWa0MqvkOcqFdQrHNBAFxtgOkzFTLXP10BAOzBQRmCnMxFg4dWY5txbMCI111raMl7GMlP3M2OVrxIAtNJygabllzr8VBPoKmDlO+FLG0wCtlYkbNpA9dRWG+kO6z9oeyBzq8KGAlLZtgCGkDKx2O/hXoc8OWLkW5N23diDGa2CFETtqZ6muiM/ZHNOOXs2YvcuOjFHUqw3B3Hu94qfiOSMQmWbbHMMwCgsQP3gBofKoj819vdVrzqmgBdUJ0UGDkXc7DSOlWNnmoTBxzx0b7VY8tiR7jWjy0lVe5jHHnbd3Xbp9SE3KdzI1xcrBIzgHvJOneRgDHmJqGvLV1oy22aZiBvBUH5so/mFW2J5rtdk6JeUZwC4W3czORqA1xySRP8ACKrMLzrctJ2a5Izrc1EmVZGgGfZJRJH7tRzLT6de/guoZk1d9O3n/hovcp4gBz2LQntaezpm1jy1qLd5RxGbIbD5u7pl17xIHzVvynwqwvc/XYuAdmBcLFtGOrJkMM7FhoPH5aVrvfSLeLl4tSQoIysZCm4dSXJM9o4Ou0REVjKXsjpip+X9CqxXKGIXNNl4VmUnKYlUN06/wDP6a1Ctcr33UOltmVnCKREFyQAo8TLL8RVyfpDvhXRRaCOjJlCGFVrVuz3e9IIS0oBM7tMzVdh+cbiWkshLbIl3tVzZ/alTDBXCsvcXQjx11rCTRslKyMOT8WVzCxcIm2Jjrcy9mI3lsywPMVoucp4oBj2DwjFWIEhWFvtSCR1yd70qbc53vm52p7M3Ddw15mK6tcwwYIzAGNcxzRE+Ve7f0gYlRdCi1F7tM4IuN+0t27ZILuWkC0sEkwS3QwMXXsapMrr3KOMVgrYe6GYSBl3GZE0/muWx/OvjWq/yvikNxWsXAbado8r7NvbOT+HQ6+R8DVtc+kHElxcCWFIJY5UaGY3MPcLtLnvE4ayNIEA6azXg8/4gZgtvDqrILZQWiVyRfBTvuSAfrF0kgzJGsCKpaL0zmThqzT61Sp/xlfWRaUpWBoKUpQCs1ilAZrINeZrNSmDYHr2HrRQGrqQaJQavQuVFDVkPV1kZRwJgvmvX1g1C7Ss9pVuaNBLN815N41G7SsZ6c0aDeXryWrQXrBeqObZKibS1eGavBNTrHBr7EDsyJ2zAg/l3+VUbLbIgmlW+O4CbUhrtrMphgM3dPgWiN9PXTeoTYB9hBMEwDrAEkgdRAO1VYItYpSoApSlAKUpQClKUApSlAKUpQClKUBmp9jgmJe32qWLjW/xBSR8a0YBFzZnEqOh+8d49PHyrpsRzfiFtmGAYnKsRAUDQFdiI2XYALWkFFptlZOXY5FgRuI9fh+s1ivqnGeJYXDXMOLdhCblhLt1yCVUOhui3lGhJlyfDMIriua7FpmF+wqqj6Mq6BW1Gg6TlcQPwTpIFS4UrTKxyNvdUUNYpSs7NBXpFJIAEk7AV5r1bfKZEddwCNRGxqLJLjhmWx9swDlCsdVkzop2YgiCRtOh611HI/Ml5cTbFwPdQuheZZUVlzKVnRTmI/i16xHBtc7gWRqxJEGRAgSeo1Onr417w+OdGlWI0y6aGCoX4wB8KspUUlFSVFpirN2wz9oDnUkXBrtmh0bTQhipVvBgddKq3vDMO7CmCydJ6lR0BEERG8bVs4pxJr7l20LasZJLGFBLE7+yD0FQiaqyyB8qUpQClKUApSlAKUpQG76q/gPQsob8pM/KvN2w6xmVlnaQRPxrdh8Rl0SFn7zGSNPIR49J1iur5bXOLwxV3JhlszmuBcsllyFUE5mMPosnfxqUrIbo4qlWnFuHWlUXLFwuhMEMpVlPp1XpPQ6GquoJFKUoDYbndA/yP/p/QVZcBvqt+wrDum5bLnrlLDSegiCfGKqaTUp0GrL3j/Fku4u/etiLblAoIA7oCD2eminT/AIqFhsRINp9Qfntr691SP4Y61XzWcx+FNRCSSo93LRHmPEf18PfWuss0metYJqCRSlKAUpSgFKUoBSlKAUpSgFKUoBSlKAVdHjpNlLBHcXMYgHMzQJLGCBlAQDXKB1nSlpSwWaYkNlQ+FzNrpqc0mBoZDbTpFV11QCQDIBIB8fOsK5G3XT/PhUnhd5Euo9xcyA95YBkQejaH30BFpVtex9g27yi3DObORsiaZFi4d+5nPehdBttWnC4i0q2syZity67CB3hlt9mjE7rmVp8Ax60BX0q8w+PwardU2WMteNokKSivbKIrSe9BIbyKg9SKW+JYYNaJsyFt5XHZpLPlUFgZ1MhjLAxOxoLKOlTOH4i2quHWWIXI2RXAicylHIGune3GXzNSsNjMMosE2izW2JuZgpW6pg5SJ2BEDyJOhoCppV5c4jhftAlkgGwLaZkQsHBP2hM+0Ruw69NBR+JYY9lFmMtooxyIftMigXMsw/eDaN4zPQBZR0q4fiGHKXh2EMz3WtkAdwNkCoZ3AAY+KkCNzVPQClKUApSlAKUpQClKUApSlAKUqVwrh1zEXrdi0JuXGCqPM+PlQHf/AEX8s4a9ZuXcZbUrccWbTMxBLEGcusTMQd5muI5j4O2ExNzDuZyNo34lOqsPUfOa+n898pX7drC4XD3rC2sMoJLXQrNe+9ciJEEmPU1Rc64F8VhxiyUa9ZGW92ZkECCSCPCc3ozeFbvHcduxyLNpyU31+ng5nkjCYe7i0tYkEq2iwYGfQqG8QdRHmK0838NGHxl60FyrmzIOmVtRHl091VNtypDKYIIII3BGxruOcLZxljD4u2JchbbKPEmPDo8j+YVWK1QaXVF5ycMqbez2/knYXhmBHAXxl/Dp9YJa1ZdWuAli2UOwzQWEOdohfOvm9dr9IWJ7JMLw5D3MPbDP53X1JI8hP5q5zl/gt3GX7eHsiXdgPIDqx8gJNVmt6NMcrjqPon0Zcn4XE4K4MXbVbmKNxcLeLHP9monIm2jSZ6wRXzLieAexeuWLgh7bMjeoMSPI7j1r7NzxylxBcThThBaTD4JLa2M1wAlhBd2XfvEfKtP0p8qJisuNtQt3IBeUahio0YHyGnoBVljclsZyzxjKpM4PkocIVLjcTNxmJAtpbDyoAkuWUgakxH7pr6EvKXA3wJxlq3dFrXV3OYQQNvU18WGHObJ1mK+r8Nwl5eCXbEb5iJ6CVOnwq+NPwU4iVJb9TkuY24MMORg1unEFlALF8qqDLEg6HQR764+vd22QSDuK6/6LuV2xmLDlZs2IuXCdASNUTXqSPgDWT9UvB0JaI9b/AHJKcn58MyBFXFW7YuMoOZiDJAMdSARHQgeNcJX1jhfBsfb4mcWz4cB2IZe1H7M6BRpuABHmK5z6VOVvqeK7S3BsYiXtx0OhdfiZHkavljtdGOCe7Td9/wDRV8idgcYlvEWlupclRmJhW3DQDrtEHxrouP4zhdjENauYMuQQSbZCjUAwNa5HlNZxuHHjdQfExX0g8PwzYy6Mtt8UkGLskCEXKezkBh49a0wq4bV1MOKko5U5XVdn7lb9JPJ2Dw2DsYzD57ZvFItOSZVlLbGSpGnXrXzSr3nPieMvYhvrrE3E7oUaIq79weB8etUVc8+p2416VuKUpVS4pSlAKUpQCul5L4xYwbPimlsQikWEyyoZhGct03j0muapUp07IlHUqN+Oxb3na5cOZ2JLE9SdSa676LOLLbxX1a7HZYjuGdg+y+4+yfWuKr1bcqQykggggjQgjYg9DVoyadlZwUo6WXPOXL74HF3MO2oHeQ+KN7J8juPdXS/RnzPhcOty1i2yqGDocrNrpmWFBg6A1wuKxD3GNy47O7alnJZj6k6mtNWi2naInjU46ZFlzLxH6xir98GQ9xisiO7MLp07oFdHyJzBZwNu7eDTiWBRFg90HrMR/wAVxQWpNi1V4LeyMkU41dHQvduYq9OZyzH8Rkn419a5Rtqlg2sU0rlMRJnTUAkQ3u0r5tynYIZCB3ndEE9FLd5vXukegPWK+j8HxsDunMNJzgEkkD2p+OkRpXck5QpHlcROEGrOZwXJKds7FTGZSpadFGY7dSRBI/SvpOK+rJg2tt3WjLA1MnbTr6Cp7Cz2H1iIgCV6ZjED5g18841i863lLn2M0mDsRrB8iQR1msow5m62pkzyOLSdO19D5TzLw5kvNEFSxCsNjBgg+DDqPhoQa6njnF7GC4bawOCuZ7l49pibgBGsDuCfPT3edQmw3a27itEqoM+BBCrr4d5YP4QR4Rx2IVp1nTxrDJBxPRxyUqRqkzPWuzxPNFnEcN+rYmTetH7EqJPkSToF3BHhFcXNb8PZa4QqwTr4COurGBG+5/WsE2jWcFKr7FhyhibNvG4e5iGy2kuKzmC2i67DU6wKnc3cwJd4i+MwZdBKFGOjSqhSY8DG1QsFgbKDNiJaGE20cA5dZbMJ1EGAJ36VZ8x8q2rDPbt3ne4kkgp3SN8qvuWjyiQRMiot0GouVstMRjLHFLChyLeLQbgQCOunVeviDPSuJ4hw+5ZbLcWD0PRhtKnqK1wyEMCQdwykj4H5T614uXGYyxJPiTJ+Jq05qS3W5THieNtJ+nx4/b2PNKUrM2FKUoBQUoDQHq5EnLMSYneOkx1r1Yw7uQERmJMAKpJJ8IFScNetQ3aW3cn74eCDMk6ggz1nzq1wuNyWzatLkzQ5KsC8KGnOfurDTOnsjSDNSkGUFy2ynKwKkbggg+OxrzX03juOwps2A9lLmJ7C125uyYOQQFggl43YExKjciuDx+AAukWwcrDMi6s3mvuM6npVqoqpWQAKZadf8/WvYrVAyi1NwyVFSp+F3rohAwyy2Orwoa2li4OqZl/iW88/ID411Fu6RcKD/uEj0aCvyYVznDwDaCnodPKdxVqcRF+05IAZkMnaGaGk+RzD3V3Qg4o8XO+Y6O04XYfEYa4FfZElY+8jNH+2Z91cbllnVtCVKfnuIo9+p+FXHLeL7N7ttrhWM9to1lpy7SBpH61z/F7uTF5JBK4hRPpc0qkNpS8dSyScYpdVsVHD0TLdzzJtsuniv2oH/irkeIL32P7zfqa6DGB0Zmty6m5dS2wB72WAWCjplb/dVZ/0TEvqLTAfvlU/9yKxnUnseli9C3ZRulawYOonyM/0roLnLtxRL3LKRvLkn/YpHzrR/wBBn2bqn+Rwvxj+lc8sE30R1RzR8kbhOOFu5bZtVV1JXKCMuZS/XcqCvod638R469261wAJLEjLOgO4318uulVuJwzIYMeoMipPDuE3r2qL3fxtovx6+gmubTK9NF24r1M83cSLjEsqFiDJYsNhoR3oB02OlQ6tMfwRrQk3EJ8BPyka1V1WcJQdSRMZKStClKVUkUpSgFKUoDOYxEmJmOk+MeNScDiFRlkNGZc5EGVDBiApjwGhOpHSotKAueOcwXMTeu3Wj7RmaIjUhQpgbEBE+B8a0LxE5MjyVO4DNpEQSOvx6eQqtqw4Twe9iTFpdB7THRF9W/pV0nJ7FZNRVvZEe8bcd0OGk6lgVK9IGUEdfGp/DeB3roDZciHZ30B81G7e7TzrpsDwGzYgO/bsNQpEWlOxbIfaOkSd/DSa34zHeevj/QeFehh4R9Z7HJPidW0F/JqwfL2DtibpuXW8JyJ8B3vnVvg+KYe1+zw9lPMJLfnOvzrmL2MHU1EvcQA66116ccTF4JT+Jv5/g+grzw6agL7/APmsNzdaxXdfD4dgASWKABZiTKFTrHy8q+XYjHMT5UtYlgNNKwlKDeyNYcNGC6v5n1HD8QsZS/1e33ldp+11CkAf6mhM+dZxWOszph8Oz54lrc94rnJliSYH6V8y7a6wgE1tGGuEyWPjv86rqRDxwW7Z1/FeMXnSFuBVypCosCGIVQFnwn4DwrmcYbhLFLh7rZWzakaZixPv+VaE4VdYgqLja/dzHT3VYYPlTFO2lpwp3NwFQfPvxWblNvbY05mKCsrnwbdmzO7N3FYCI1YkKD4nyqZh8BdaPCF0J2zBTH+4VevyPcy6uk/hDNv6xFLHKzqJZlXSO85PwCiPdNXjjynNPjsMlsyowPA7YudriB9kFU5ZHecnug+UeH96lcxcYXKFtwF2AXSAOgA/pW3G8FWYfFgDwW3HzL/0rThrGCT7xcjckgfpr0PX9avGMoJpLd9zN5Izkp23Xbc5W65Y5SCznZRv741J8hUzBcs3mGe5FpP3/aPokz8YqxxXMVtBlsIqj90D+m586gD61eJi3cYHwUx8YrneOGr1u34R2rJPTstK9wLGGtk903SOrMQPcFj9TVdjGVvZtBP4SY+BJq+w/K9zLnusiAdCe97wAYqPj7FsKV7eB4JbGvqS8n5UyY247Rr5fciGaOrZ38/sc7Svd1QDoZHjEfKsVwNUdh5rE19MtcN4Zb0FpWPjcLN+pj5VYYa/hUH2aWl/gRAfkK74/wBPn3aPNl/Ul+mD/nb8ny3D8PvP7Fq43ojH5xVpheUcY/8AphR4uyj5Ak/KvoT8VTq5+X9BUG5x+0Dux/mj5VrHgIL4mUfG55fDD7/gosPyUqa37uYiJS0D/wC5G3uq5zi2vZ21yIuyieo3PifM1pxPMdoa5dfUn49Kq8ZzKh9ldTpXRDHixdCq52X40SMZiIksda5/FY0sdNq0YnFPcOtYVKpkzXsjqjBQRiSetYTD661vVKk27e5I6GPWNP71g9yXOiKMODUyzhwBFYAjYV6AMdagylNvazzicWtuABJq74Rx/DrEKobxO/5v8921cxibJO9RvqZPSoWSUXsS+HxzhUmfXLHOVsJ+0X41WcY54UaK2bfYfCvna4J/DSt64XxrTnPsqOVcBhT3k2vFly3N15hEa+M1puc0YiRtHp4dDUBMMRUhcNO9V52R9zXl4I9Iol3OZLjR3F009ldfURUc8w3QQBbQDwCLr8q2WrECYp2E9KtrmyE8a20izx68CTCiZjKoBHv3rRieJ4pz7ZA9T/Wt+RBqxgfGtF7jVlfYQufHZf0k/CqyzNKmy8VqdxgaWsX3EFjB+daLuHt2/wBo2v4Rq3w6e+tGJ41ebY5B4Jp896rq5cme+h1QxT/U6/YkYzEBiMq5QPeT5ms1GpXO3e50pJKkWSYg7lpPrpXpOJXAd6hGsohr0Oc+xi4LuTbuPc7k1GDEmsEeVeQDMRSWVshJG9LZitZtMDtUuzhyADNddwvk+7cXM2VTClbZbvsD4qDmUETvHqKm9tzPXTOU4fw+5eJCITEEkkBVHizGAPeasH4bkMG5bJ/cLP8A+oj512HM3D7mFw1hBcItM7hgoBbSSCZEM2VohtNOm45LE2HRtSAp7yspYKy9DBMDzECKi2Uck97NmG4UBqzkfxLlHoCTv6xS9hx93N4ax09DvXi5xBbZKMWJ0VwIOgIMSd9QDvGgrQ3G2EhVEbb6EeYgTVk0jFqcuiN64bxr12NVrcUc/h+B/vXj/qd3o0emlNURyZstVwIreuCgf/JqhHEbvRzXg425+NvjUaojkT8l86xIy6jy28qi3T18N/8A7VO+IY7sT6k1rNzpUOZePD+WWQ4gFmNf86VHvcUc7QPmfnp8qglq8M1ZubN44Y+CRcx90/6je4x+lR2xD/jb8x/vWsmsVlKRvGCXYyzE7kn1M15NZrBrJlzFKUqoFKUoCyXB+FTLHDmjb41Ov8QtJoWA8lEmq2/x8/cX3sZ+QiPjXW5Rj1OBPLk6Ikjhh6kVubAKBLEBR12HxNUF/iN193Pu0/StCIWPSfFiB8zVXnj2RouHm+sjt+X2sC4HY5gsEAa5mOijw36dcprbhOM2muto1xlt3HhjAJW0T7W4YkyD0OtczffsQqqe+MjKRvmABDAHUKDqJ3J2iZh2cZluF8sBkdSF0Az2ymngATMeVOey39tHyz6Na5ku8Qwowpg3M7tYeFzkWQudLpaQGKXDDCdR51w/FCUDW2LNDbOMty0/3lZdiCBuNDlB0gioHDeI3bDrctMVZTKkdDESJ8j76s+Y7/bBMXqWvyLrSMovJllQu6mIaSdc5iIqvM2LrGkyoD16z1HpNNZfQSM9M9R5pNTrI0G/PTPWiaTTWTpLjhXCmvAsXS2gMZnMS2ndUdT3l8hNdHjuXkweGtXriJdN9iLbZiyBQAZgHKZJUA+fw5zh7m5ayAwUzGBJOUnNnA6wdSB0FdPw1EuYU2Lrl8kvat7qpYlbi5hqqr9ncnwAP3qlOyktjkOJ2lEOgyq093WAR4EmYqvJq345iEZLSodBnPyQCfPQ1UVnKW5pHoKVik1RssDWKUqoFKUoBSgpQClKUAqTgknNE5wCy+zlhAWctm3MDQdSfcY1KA2XrpY5jM6SZ1JGkz46Ct+IuK6G4zsbxuHMCBDKwnPm/FmzT45gfGolKAzNA5gidDEjpptp7z8axSlgzNJrFKWDM0msUoDM0msUoD1buFSGUkEaggwQfEEbVaWuJrGZ5Z5ByQBb0I1gaAkF+kT0qppU2KN+IxbOFDRCgAAACIVV+eUE+cnqa0Ur3Yss7BUUsx2AEmoB4r1atljlG+vUDQCSSToBAJr6By79GV25rijkJEi0jIbgA+84BJA6BVBMnUrFXHDOUBlu20Cup+0QkEL1tsAGGa20EqyGCCOmWraWV1x8nN8P+j26E7XGN2Skd20hRsRcMSEQMQoaIO5I2idK13LHDQMq4e+zAxJeWEbhlVhr45RpFXn0kW7trFW8PLuro91xbPf+0u3O+PMKia7d2DArk+Y5tuqXR26FFKX579zTVlu6yA0rlaYCgaU6EVfc2/UUaezwp06Zro+dy1/WtYwlrMEbCtmicqPca6fMIunl4elVBvgey7keDorx5d4x8q9jibHKrtca2CJth8iMJ1GVRCyNJioLpUWWIwdi2rNlz9DkfKyE9Lklwh32LTqMwMilU2KxGZ3dVCB5ORNECk+wB+EEdfAHelQSR6UpQgUpSgFKUoBSlKAUpSgFKUoBSlKAUpSgPVtCSANz/nwrsuEWhhsN26ftHZVUggOiEmbuU97vQQpA7qgmQWFc7wnCBmGaQp1cjcWwdQPNoI9BVpi8ZnUXzplu3RlHsj7NCixtAVbi+GnnUoiRpv412dwh74u2EWNNVa4zEEbTclvfX0XgvOy2cT9WxT5rbGbGJPgTAS+epEZC/QjXTUfL+XnzYmwCBHaq58yuus+/4mid++LDH7NsR5SuZsrZT0ke7QeFWi2t0VnFSW59A+nS0O0wzx7VplH/AObyR/5K4Lh1/tbRwr9MzWSejRJSfAx8fWuzwbvxDCmz2drNgr2Ww91mZTbcwbbLqzEBVidCD0yiePx9m2QbllTZvWz9pZknKVOr2yZMA7gkx6Cj8iPSmVmAa2Lg7YMbeocKYYSCMwnqpgx1iOtaGEEiZ8/Hzrdjr4uOz5QubUgbZjvHkTr760VQub/rE2xbP3WLKfDNAYehhT5EeZpWilAKUrd9Vufgf8p/tQGmlbvqlz/tv+U/2rXctlTDAg+BBB+dAeaVsGHc6hG/Kaz9Wf8AA/5T/agNVK9PbI0IIPmI/WvNAKUpQClKUApSlAKl4bh7OR3rayPvOJ/Ist8qiqpJgCSdABuT4VYWn+rOwe3Ny28EMe6rq2sge0RBG8T40BZ4oqmYKcttTBuEQWKd0LaU6uQAO8dtJAIk1aY099Ii2UZQkmB+FgerAmZ6yRsa0cSuMbr5mLEMRJ8ATEeAjoNK2W1tG1OZheDFSpjI1tlhSDuGDaGdwyxsakHrgV9UxFtmMANqfCQRPzqDmMz1399YpQHT8p8zLhbrXHTOr5O0URqVcHOPHQsSvjHTb3zg7HGviVWbLG3FxV7jK6CQWGhJBZdddK5Wum4tjGxGAsuLh+xY2rllQFQAnNauhV8dVJPVfOpu40VaqVnNOsEjwJHwrFKVUsKUpQG3CuA6k7Aif7x1jeK6ThGMQnLiFw2UBQrZFYkrMkspJljuxBPpXLUigO3c4JR9m1k9wSGw6vqq5dA53Yak5xBUHWWNc3xLGZyGdbYOacloAIqgAEaEiWIk67yetVlKBI67C8Vs3LiLdtYbs1JbM7xLBDl1VS6gsQSpBGgB0qRxq5grgdxbwYcNIFq9dGcd45QOyVfv7mP2cbERxNKrCCgqRMm5O2WHEcQrKqqoWNlVs0CWJObzJGn7tV9KVYgUpSgFKUoBSlKAyjEEEGCDII3BG1SseLQFsWyzNkBuk7dozEkL5Bco8zmqJSgBP+emlKUoCz5jew19nwy5bThXCfgLDvp6Bs0eUVWUpUgV6RyJgxIg+Y8DXmlQBSlKAUpWaA//2Q=="    
     },
     {
       "nombre": "Regreso al futuro 1",
@@ -174,7 +195,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/NDS1myoYUzs"
+      "trailer": "https://www.youtube.com/embed/NDS1myoYUzs",
+      "url":"https://static.pelisplus.co/movie/cover/original/18c82acbd8a32dfda8adc15624ab4590.jpg"    
     },
     {
       "nombre": "Regreso al futuro 2",
@@ -182,7 +204,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/Bmr2fgaoSxs"
+      "trailer": "https://www.youtube.com/embed/Bmr2fgaoSxs",
+      "url":"https://static.pelisplus.co/movie/cover/original/8a9f05d968508631e8dfa3d9a4572ce3.jpg"    
     },
     {
       "nombre": "Regreso al futuro 3",
@@ -190,7 +213,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/WmBX7CA-AAc"
+      "trailer": "https://www.youtube.com/embed/WmBX7CA-AAc",
+      "url":"https://static.pelisplus.co/movie/cover/original/c42ab9c2c4a1c93ba3fef398840b89b8.jpg"    
     },
     {
       "nombre": "Buscando a Nemo",
@@ -198,7 +222,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/X-Z-gQ8mKs0"
+      "trailer": "https://www.youtube.com/embed/X-Z-gQ8mKs0",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/51eSJPcKp1L._SX381_BO1,204,203,200_.jpg"    
     },
     {
       "nombre": "Buscando a Dory",
@@ -206,7 +231,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/AmyUkJBq3pg"
+      "trailer": "https://www.youtube.com/embed/AmyUkJBq3pg",
+      "url":"http://cdn62.paninicloud.com/repository/Spain/Collectibles/editorial/003108RCVAE_0.jpg"    
     },
     {
       "nombre": "El padrino",
@@ -214,7 +240,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/gCVj1LeYnsc"
+      "trailer": "https://www.youtube.com/embed/gCVj1LeYnsc",
+      "url":"http://es.web.img2.acsta.net/c_215_290/pictures/18/06/12/12/12/0117051.jpg"    
     },
     {
       "nombre": "Corazon Valiente",
@@ -222,7 +249,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/1NJO0jxBtMo"
+      "trailer": "https://www.youtube.com/embed/1NJO0jxBtMo",
+      "url":"https://static.pelisplus.co/movie/cover/original/0105d509aaed8dacf5ce813699a0fcdd.jpg"    
     },
     {
       "nombre": "V de Vendetta",
@@ -230,7 +258,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/e4UQV1pXuYg"
+      "trailer": "https://www.youtube.com/embed/e4UQV1pXuYg",
+      "url":"https://static.pelisplus.co/movie/cover/original/83c2e9e97ba5cbe93256c1e0d4372103.jpg"    
     },
     {
       "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
@@ -238,7 +267,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/7wK0FfNd18o"
+      "trailer": "https://www.youtube.com/embed/7wK0FfNd18o",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/81yvGPXTbgL._SY445_.jpg"    
     },
     {
       "nombre": "El Señor de los Anillos: Las Dos Torres",
@@ -246,7 +276,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/f9W1l7E5bHg"
+      "trailer": "https://www.youtube.com/embed/f9W1l7E5bHg",
+      "url":"data:image/jpeg;base64,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"
     },
     {
       "nombre": "El Señor de los Anillos: El Retorno del Rey",
@@ -254,7 +285,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/cUuz3-QCg58"
+      "trailer": "https://www.youtube.com/embed/cUuz3-QCg58",
+      "url":"https://static.fnac-static.com/multimedia/Images/ES/NR/0a/fa/0c/850442/1540-6.jpg"    
     },
     {
       "nombre": "El Hobbit: Un Viaje Inesperado",
@@ -262,7 +294,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/z5eC1mf914w"
+      "trailer": "https://www.youtube.com/embed/z5eC1mf914w",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/81jn7LC-m3L._SX355_.jpg"    
     },
     {
       "nombre": "El Hobbit: La Desolacion del Smaug",
@@ -270,7 +303,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/CvDQLGsnbvE"
+      "trailer": "https://www.youtube.com/embed/CvDQLGsnbvE",
+      "url":"https://static.pelisplus.co/movie/cover/original/c57a94e74234467684d4a6e756492c32.jpg"    
     },
     {
       "nombre": "El Hobbit: La Batalla de los 5 Ejercitos",
@@ -278,7 +312,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/jMuceulJQy8"
+      "trailer": "https://www.youtube.com/embed/jMuceulJQy8",
+      "url":"https://imagessl6.casadellibro.com/m/ig/6/2512366.jpg"    
     },
     {
       "nombre": "El Origen",
@@ -286,7 +321,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/RyfbchpdJ6U"
+      "trailer": "https://www.youtube.com/embed/RyfbchpdJ6U",
+      "url":"http://www.mubis.es/media/covers/1029/1006/origen-inception-portada-original.jpg"    
     },
     {
       "nombre": "El Sexto Sentido",
@@ -294,7 +330,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/00jnKiyUN7k"
+      "trailer": "https://www.youtube.com/embed/00jnKiyUN7k",
+      "url":"https://blackcovers.files.wordpress.com/2010/02/el-sexto-sentido.gif"    
     },
     {
       "nombre": "Matrix",
@@ -302,7 +339,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/BRuDS0wcnW8"
+      "trailer": "https://www.youtube.com/embed/BRuDS0wcnW8",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/813dE2pH7XL._SY355_.jpg"    
     },
     {
       "nombre": "Salvando al Solado Ryan",
@@ -310,7 +348,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/RYID71hYHzg"
+      "trailer": "https://www.youtube.com/embed/RYID71hYHzg",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/91P8Y8exESL._SY445_.jpg"    
     },
     {
       "nombre": "El Laberinto del Fauno",
@@ -318,7 +357,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/L-o3l_Vbd4E"
+      "trailer": "https://www.youtube.com/embed/L-o3l_Vbd4E",
+      "url":"http://enterarte2011.files.wordpress.com/2011/11/el-laberinto-del-fauno-720p-alta-definicion.jpg"    
     },
     {
       "nombre": "Saw",
@@ -326,7 +366,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/WrFTmZwe5wc"
+      "trailer": "https://www.youtube.com/embed/WrFTmZwe5wc",
+      "url":"http://www.swarzycustom.com/wp-content/uploads/2017/05/saw-coverbluray.jpg"    
     },
     {
       "nombre": "Saw 2",
@@ -334,7 +375,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/Lq2AzZB6DUE"
+      "trailer": "https://www.youtube.com/embed/Lq2AzZB6DUE",
+      "url":"https://pics.filmaffinity.com/saw_ii_saw_2-423079150-large.jpg"    
     },
     {
       "nombre": "Saw 3",
@@ -342,7 +384,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/88G8UBwJALM"
+      "trailer": "https://www.youtube.com/embed/88G8UBwJALM",
+      "url":"https://i2.cdscdn.com/pdt2/0/3/8/1/700x700/5414474404038/rw/dvd-saw-3.jpg"    
     },
     {
       "nombre": "Saw 4",
@@ -350,7 +393,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/PYQ75b89PPw"
+      "trailer": "https://www.youtube.com/embed/PYQ75b89PPw",
+      "url":"https://static.tvtropes.org/pmwiki/pub/images/saw422.jpg"    
     },
     {
       "nombre": "Saw 5",
@@ -358,7 +402,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/88pB8m-ZxrM"
+      "trailer": "https://www.youtube.com/embed/88pB8m-ZxrM",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYQzqHVN5IT50FKkcfqF5clCw8ZiXA7vMDzgI2tfdH8U76Q5y"    
     },
     {
       "nombre": "Saw 6",
@@ -366,7 +411,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/bRAwJn6BIBg"
+      "trailer": "https://www.youtube.com/embed/bRAwJn6BIBg",
+      "url":"data:image/jpeg;base64,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"    
     },
     {
       "nombre": "Saw 7",
@@ -374,7 +420,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/S3p0EKTHKhk"
+      "trailer": "https://www.youtube.com/embed/S3p0EKTHKhk",
+      "url":"https://i.pinimg.com/originals/1e/8d/df/1e8ddf1f09a1e8cf8c14a3afaf7fb835.jpg"    
     },
     {
       "nombre": "Saw 8",
@@ -382,7 +429,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/7sVu31ssE6c"
+      "trailer": "https://www.youtube.com/embed/7sVu31ssE6c",
+      "url":"https://los40es00.epimg.net/los40/imagenes/2017/08/04/cinetv/1501847430_971548_1501847672_noticia_normal.jpg"    
     },
     {
       "nombre": "300",
@@ -390,7 +438,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/aIIF4WP72AQ"
+      "trailer": "https://www.youtube.com/embed/aIIF4WP72AQ",
+      "url":"http://www.estadepelis.com/cdn/s3/cb6fb1a33716c1b1331f629ca3bf3d1f.jpg"    
     },
     {
       "nombre": "Ratatouille",
@@ -398,7 +447,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/b5ZNJoS2RtI"
+      "trailer": "https://www.youtube.com/embed/b5ZNJoS2RtI",
+      "url":"https://i5.walmartimages.com/asr/86535a89-e84e-44a4-a13f-9c57527d476c_1.862063a0f357be2937ad7889fd26c3d8.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"    
     },
     {
       "nombre": "El Show de Truman",
@@ -406,7 +456,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/loTIzXAS7v4"
+      "trailer": "https://www.youtube.com/embed/loTIzXAS7v4",
+      "url":"https://static.wixstatic.com/media/e8161b_0095d8839b6b424f8eef80629eec2e66~mv2_d_1200_1600_s_2.jpg"    
     },
     {
       "nombre": "La vida de Pi",
@@ -414,7 +465,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/g57hTJ4jh88"
+      "trailer": "https://www.youtube.com/embed/g57hTJ4jh88",
+      "url":"https://i.pinimg.com/originals/02/39/82/023982f7941bf19a5db7f366b7ae228b.jpg"    
     },
     {
       "nombre": "Hereditary",
@@ -422,7 +474,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/X42F7Yw7uvw"
+      "trailer": "https://www.youtube.com/embed/X42F7Yw7uvw",
+      "url":"https://img.over-blog-kiwi.com/2/86/25/29/20180622/ob_a72698_1-0.jpg"    
     },
     {
       "nombre": "Nace una Estrella",
@@ -430,7 +483,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/wnxAOt6q458"
+      "trailer": "https://www.youtube.com/embed/wnxAOt6q458",
+      "url":"http://es.web.img3.acsta.net/pictures/18/06/06/18/04/4900439.jpg"    
     },
     {
       "nombre": "Aniquilacion",
@@ -438,7 +492,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/coNZHFhwPaA"
+      "trailer": "https://www.youtube.com/embed/coNZHFhwPaA",
+      "url":"https://pics.filmaffinity.com/annihilation-713855494-large.jpg"    
     },
     {
       "nombre": "Ralph el Demoledor",
@@ -446,7 +501,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/SI8mo4w9i2s"
+      "trailer": "https://www.youtube.com/embed/SI8mo4w9i2s",
+      "url":"http://www.dizzyblondestudios.com/wp-content/uploads/2018/07/Wreck-it-Ralph.jpg"    
     },
     {
       "nombre": "Wifi Ralph",
@@ -454,7 +510,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/ws0h0Khkt8s"
+      "trailer": "https://www.youtube.com/embed/ws0h0Khkt8s",
+      "url":"https://http2.mlstatic.com/wifi-ralph-kit-de-la-pelicula-de-disney-remera-y-cargador-D_NQ_NP_667221-MLA29174129855_012019-F.jpg"    
     },
     {
       "nombre": "El Conjuro 1",
@@ -462,7 +519,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/oUyHULb7xDI"
+      "trailer": "https://www.youtube.com/embed/oUyHULb7xDI",
+      "url":"http://www.cines.com.py/images/dinamico/peliculas/1289/afiche/el_conjuro.jpg"    
     },
     {
       "nombre": "El Conjuro 2",
@@ -470,7 +528,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/fFS929KKVAQ"
+      "trailer": "https://www.youtube.com/embed/fFS929KKVAQ",
+      "url":"https://res.cloudinary.com/civico/image/upload/v1447175343/entity/image/file/934/000/564224ae820c650510000934.jpg"    
     },
     {
       "nombre": "Anabelle",
@@ -478,7 +537,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/t5-9hrkexZI"
+      "trailer": "https://www.youtube.com/embed/t5-9hrkexZI",
+      "url":"https://ih0.redbubble.net/image.413182941.0906/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"    
     },
     {
       "nombre": "Anabelle: Creation",
@@ -486,7 +546,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/pZCOZGiOScE"
+      "trailer": "https://www.youtube.com/embed/pZCOZGiOScE",
+      "url":"https://imagessl1.casadellibro.com/m/ig/1/6057131.jpg"    
     },
     {
       "nombre": "La Monja",
@@ -494,7 +555,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/xz0_50iNY6g"
+      "trailer": "https://www.youtube.com/embed/xz0_50iNY6g",
+      "url":"https://static.fusionmovies.to/images/movies/J-Teee_4adWhOHZ8YVfM1OBWwIpxHmt81IFQUmiR9IIS4jYMhg62PYJfdST5oxxUFHBKIsiVF2W4LhKqyXThcCyotRisZws0-QSkncBiKtI.jpg?1"    
     },
     {
       "nombre": "La llorona",
@@ -502,7 +564,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/WJ2YlFrAx6I"
+      "trailer": "https://www.youtube.com/embed/WJ2YlFrAx6I",
+      "url":"https://powafulimpak.files.wordpress.com/2019/03/la-maldicic3b3n-de-la-llorona-2019-cover-blu-ray-r4-b.jpg?w=1000"
     }
   ],
   "sagas": [
@@ -512,7 +575,8 @@
       "cantidadDiscos": 2,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/uzkkh-1A_kY"
+      "trailer": "https://www.youtube.com/embed/uzkkh-1A_kY",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/51djexrn8SL.jpg" 
     },
     {
       "nombre": "Toy Story",
@@ -520,7 +584,8 @@
       "cantidadDiscos": 2,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/m9CvO0s6Tzw"
+      "trailer": "https://www.youtube.com/embed/m9CvO0s6Tzw",
+      "url": "http://www.mubis.es/media/covers/1505/2010/toy-story-portada-original.jpg"
     },
     {
       "nombre": "El Rey Leon",
@@ -528,7 +593,8 @@
       "cantidadDiscos": 3,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/p5BwFmPdkC0"
+      "trailer": "https://www.youtube.com/embed/p5BwFmPdkC0",
+      "url": "http://www.1080b.com/wp-content/caratula-el-rey-le%C3%B3n-blu-ray.jpg"
     },
     {
       "nombre": "Saw",
@@ -536,7 +602,8 @@
       "cantidadDiscos": 8,
       "costo": 5000,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/WrFTmZwe5wc"
+      "trailer": "https://www.youtube.com/embed/WrFTmZwe5wc",
+      "url": "http://www.mubis.es/media/releases/5311/62940/saw-edicion-coleccionista-blu-ray-l_cover.jpg"
     },
     {
       "nombre": "El Señor de los Anillos",
@@ -544,7 +611,8 @@
       "cantidadDiscos": 3,
       "costo": 5000,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/7wK0FfNd18o"
+      "trailer": "https://www.youtube.com/embed/7wK0FfNd18o",
+      "url": "http://www.mubis.es/media/users/3724/107088/el-senor-de-los-anillos-la-comunidad-del-anillo-caratula-blu-ray-original.jpg"
     },
     {
       "nombre": "El Hobbit",
@@ -552,7 +620,8 @@
       "cantidadDiscos": 3,
       "costo": 5000,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/z5eC1mf914w"
+      "trailer": "https://www.youtube.com/embed/z5eC1mf914w",
+      "url": "http://www.mubis.es/media/users/9692/67653/comisario-j-gordon-original.jpg"
     },
     {
       "nombre": "Shrek",
@@ -560,7 +629,8 @@
       "cantidadDiscos": 4,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/B88JfTyJ1Fw"
+      "trailer": "https://www.youtube.com/embed/B88JfTyJ1Fw",
+      "url": "http://www.mubis.es/media/releases/573/393/shrek-blu-ray-l_cover.jpg"
     },
     {
       "nombre": "Regreso al Futuro",
@@ -568,7 +638,8 @@
       "cantidadDiscos": 3,
       "costo": 5000,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/NDS1myoYUzs"
+      "trailer": "https://www.youtube.com/embed/NDS1myoYUzs",
+      "url": "http://www.mubis.es/media/releases/4882/55132/regreso-al-futuro-realidad-aumentada-blu-ray-original.jpg"
     },
     {
       "nombre": "Buscando a Nemo y Dory",
@@ -576,7 +647,8 @@
       "cantidadDiscos": 2,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/X-Z-gQ8mKs0"
+      "trailer": "https://www.youtube.com/embed/X-Z-gQ8mKs0",
+      "url": "https://m.media-amazon.com/images/I/61eCm6-SLeL._SR500,500_.jpg"
     },
     {
       "nombre": "Ralph el Demoledor",
@@ -584,7 +656,8 @@
       "cantidadDiscos": 2,
       "costo": 5000,
       "genero": "Animada",
-      "trailer": "https://www.youtube.com/embed/SI8mo4w9i2s"
+      "trailer": "https://www.youtube.com/embed/SI8mo4w9i2s",
+      "url": "https://3.bp.blogspot.com/-dQ8T4q-UWkQ/XBlKUP5bHYI/AAAAAAAAgw0/X1w_bykXYT8wCu2b9lPjH1Zs9LySDc_JACLcBGAs/s640/Ralph%2B2%2BBreaks%2BThe%2BInternet-GALLETA%2BCoveRdvdGratiS.Com%2BV1.jpg"
     },
     {
       "nombre": "El Conjuro Universo",
@@ -592,7 +665,8 @@
       "cantidadDiscos": 6,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/oUyHULb7xDI"
+      "trailer": "https://www.youtube.com/embed/oUyHULb7xDI",
+      "url": "https://i.imgur.com/d2ZyJvB.jpg"
     }
   ],
   "series": [
@@ -602,7 +676,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/rJnjxvgvkBM"
+      "trailer": "https://www.youtube.com/embed/rJnjxvgvkBM",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/8149W5TwQ1L._SY445_.jpg"
     },
     {
       "nombre": "Game of Thrones",
@@ -610,7 +685,8 @@
       "cantidadDiscos": 8,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/vCzW8RzDV2o"
+      "trailer": "https://www.youtube.com/embed/vCzW8RzDV2o",
+      "url": "https://i5.walmartimages.com/asr/9ddbd40f-1976-491b-81ce-61da81affa27_3.3cd63bbd12bd1d90673fb61ca9fbdfe5.jpeg"
     },
     {
       "nombre": "Hijos de la Anarquia",
@@ -618,7 +694,8 @@
       "cantidadDiscos": 7,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/vobivF2NZio"
+      "trailer": "https://www.youtube.com/embed/vobivF2NZio",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/61rJsDWs-0L._SX342_.jpg"
     },
     {
       "nombre": "Los Soprano",
@@ -626,7 +703,8 @@
       "cantidadDiscos": 6,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/_RLMKuf23PE"
+      "trailer": "https://www.youtube.com/embed/_RLMKuf23PE",
+      "url": "https://cdn.shopify.com/s/files/1/1322/9321/products/81rly9oikel._sx342_1024x1024.jpg?v=1498182867"
     },
     {
       "nombre": "Vikingos",
@@ -634,7 +712,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Accion",
-      "trailer": "https://www.youtube.com/embed/43BD0V-xZRA"
+      "trailer": "https://www.youtube.com/embed/43BD0V-xZRA",
+      "url": "http://www.mubis.es/media/releases/12007/234500/vikingos-temporadas-1-a-5-blu-ray-original.jpg"
     },
     {
       "nombre": "Stranger Things",
@@ -642,7 +721,8 @@
       "cantidadDiscos": 3,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/PWGeOlpK_Eg"
+      "trailer": "https://www.youtube.com/embed/PWGeOlpK_Eg",
+      "url": "https://http2.mlstatic.com/stranger-things-serie-completa-dvd-D_NQ_NP_646409-MLA27399766110_052018-F.jpg"
     },
     {
       "nombre": "The Wire",
@@ -650,7 +730,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/9qK-VGjMr8g"
+      "trailer": "https://www.youtube.com/embed/9qK-VGjMr8g",
+      "url": "https://resizing.flixster.com/A-QMD4O3fj7Tpn1N-VGDLDzFJvU=/300x300/v1.dDsxMTcwOTU7ajsxODEzNjsxMjAwOzE2MDA7MTIwMQ"
     },
     {
       "nombre": "Sherlock",
@@ -658,7 +739,8 @@
       "cantidadDiscos": 4,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/2PG5F3SJxbo"
+      "trailer": "https://www.youtube.com/embed/2PG5F3SJxbo",
+      "url": "https://www.acornonline.com/graphics/products/large/XB7552.jpg"
     },
     {
       "nombre": "Los Originales",
@@ -666,7 +748,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/GXrDYboUnnw"
+      "trailer": "https://www.youtube.com/embed/GXrDYboUnnw",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/915OmYzwB-L._SY445_.jpg"
     },
     {
       "nombre": "The Walking Dead",
@@ -674,7 +757,8 @@
       "cantidadDiscos": 9,
       "costo": 2500,
       "genero": "Terror",
-      "trailer": "https://www.youtube.com/embed/ZA21VAgd6L4"
+      "trailer": "https://www.youtube.com/embed/ZA21VAgd6L4",
+      "url": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201711/28/00125942238822____1__640x640.jpg"
     },
     {
       "nombre": "Friends",
@@ -682,7 +766,8 @@
       "cantidadDiscos": 10,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/vobivF2NZio"
+      "trailer": "https://www.youtube.com/embed/vobivF2NZio",
+      "url": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/7/5/8/1002004000098576.jpg"
     },
     {
       "nombre": "Dexter",
@@ -690,7 +775,8 @@
       "cantidadDiscos": 8,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/YQeUmSD1c3g"
+      "trailer": "https://www.youtube.com/embed/YQeUmSD1c3g",
+      "url": "https://http2.mlstatic.com/dexter-8-temporadas-12345678-dvd-serie-completa-subti-D_NQ_NP_762282-MLA26206962695_102017-F.jpg"
     },
     {
       "nombre": "Big Bang Theory",
@@ -698,7 +784,8 @@
       "cantidadDiscos": 12,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/WBb3fojgW0"
+      "trailer": "https://www.youtube.com/embed/WBb3fojgW0",
+      "url": "https://http2.mlstatic.com/the-big-bang-theory-pack-completa-11-temporadas-dvd-serie-D_NQ_NP_876937-MLA27417730655_052018-F.jpg"
     },
     {
       "nombre": "Mad Men",
@@ -706,7 +793,8 @@
       "cantidadDiscos": 7,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/LfuMhXcLa-Q"
+      "trailer": "https://www.youtube.com/embed/LfuMhXcLa-Q",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/61AcPMDa6WL._SX342_.jpg"
     },
     {
       "nombre": "House of Cards",
@@ -714,7 +802,8 @@
       "cantidadDiscos": 6,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/ULwUzF1q5w4"
+      "trailer": "https://www.youtube.com/embed/ULwUzF1q5w4",
+      "url":"https://images-na.ssl-images-amazon.com/images/I/91kp4yhnX4L._SX342_.jpg"
     },
     {
       "nombre": "Lost",
@@ -722,7 +811,8 @@
       "cantidadDiscos": 6,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/1mEaYnlWujs"
+      "trailer": "https://www.youtube.com/embed/1mEaYnlWujs",
+      "url": "https://http2.mlstatic.com/lost-todas-las-temporadas-completas-y-originales--D_NQ_NP_971918-MLA27665225690_072018-F.jpg"
     },
     {
       "nombre": "Suits",
@@ -730,7 +820,8 @@
       "cantidadDiscos": 8,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/85z53bAebsI"
+      "trailer": "https://www.youtube.com/embed/85z53bAebsI",
+      "url": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201906/13/00125942241388____1__640x640.jpg"
     },
     {
       "nombre": "Fringe",
@@ -738,7 +829,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/nXwsAjtcO34"
+      "trailer": "https://www.youtube.com/embed/nXwsAjtcO34",
+      "url": "https://static.fnac-static.com/multimedia/Images/ES/NR/2b/2b/10/1059627/1540-6.jpg"
     },
     {
       "nombre": "Daredevil",
@@ -746,7 +838,8 @@
       "cantidadDiscos": 3,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/UldyKvKdsEM"
+      "trailer": "https://www.youtube.com/embed/UldyKvKdsEM",
+      "url": "https://http2.mlstatic.com/daredevil-temporada-1-y-2-dvd-D_NQ_NP_654792-MLA27356373603_052018-F.jpg"
     },
     {
       "nombre": "Modern Family",
@@ -754,7 +847,8 @@
       "cantidadDiscos": 10,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/aogZUDx51vQ"
+      "trailer": "https://www.youtube.com/embed/aogZUDx51vQ",
+      "url": "https://static.fnac-static.com/multimedia/Images/ES/NR/ee/0c/0e/920814/1540-6.jpg"
     },
     {
       "nombre": "Orphan Black",
@@ -762,7 +856,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/WY8irg1Ep_g"
+      "trailer": "https://www.youtube.com/embed/WY8irg1Ep_g",
+      "url": "https://http2.mlstatic.com/dvd-orphan-black-season-one-full-frame-3-pack-D_NQ_NP_731622-MLA27719737701_072018-F.jpg"
     },
     {
       "nombre": "Hannibal",
@@ -770,7 +865,8 @@
       "cantidadDiscos": 3,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/LcXRx2iJHFk"
+      "trailer": "https://www.youtube.com/embed/LcXRx2iJHFk",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/91nEoEsVnVL._SL1500_.jpg"
     },
     {
       "nombre": "Los 100",
@@ -778,7 +874,8 @@
       "cantidadDiscos": 7,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/2NUnsXkcX4E"
+      "trailer": "https://www.youtube.com/embed/2NUnsXkcX4E",
+      "url":"https://cdn.shopify.com/s/files/1/1672/7599/products/the_100_copy.jpg?v=1527289711"
     },
     {
       "nombre": "Black Mirror",
@@ -786,7 +883,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Ficcion",
-      "trailer": "https://www.youtube.com/embed/qFPK5ISGOSw"
+      "trailer": "https://www.youtube.com/embed/qFPK5ISGOSw",
+      "url":"http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2015/09/black-mirror-new-episodes-netflix.jpg"
     },
     {
       "nombre": "Prison Break",
@@ -794,7 +892,8 @@
       "cantidadDiscos": 5,
       "costo": 2500,
       "genero": "Suspenso",
-      "trailer": "https://www.youtube.com/embed/AL9zLctDJaU"
+      "trailer": "https://www.youtube.com/embed/AL9zLctDJaU",
+      "url": "https://americadvd.cl/2742-thickbox_default/prison-break-1-4-seasons-serie-completa.jpg"
     },
     {
       "nombre": "Sense 8",
@@ -802,7 +901,8 @@
       "cantidadDiscos": 2,
       "costo": 2500,
       "genero": "Drama",
-      "trailer": "https://www.youtube.com/embed/ryzWVVuJi5g"
+      "trailer": "https://www.youtube.com/embed/ryzWVVuJi5g",
+      "url": "https://www.classictvshowsondvd.com/image/cache/data/Sense8/Sense8-Season-1-666-500x500.jpg"
     },
     {
       "nombre": "How I Met Your Mother",
@@ -810,7 +910,8 @@
       "cantidadDiscos": 9,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/nXwsAjtcO34"
+      "trailer": "https://www.youtube.com/embed/nXwsAjtcO34",
+      "url":"http://www.covertr.com/attachments/dvd-cover-set/48621d1398936432t-how-i-met-your-mother-seasons-1-9-custom-dvd-cover-set-english-2005-2014-tum-onizlemeler-1jpg"
     },
     {
       "nombre": "El Príncipe de Bel-Air",
@@ -818,7 +919,8 @@
       "cantidadDiscos": 6,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/embed/_u6vYpbfCmQ"
+      "trailer": "https://www.youtube.com/embed/_u6vYpbfCmQ",
+      "url":"https://i.ebayimg.com/images/g/1wAAAOSwTGNciLl6/s-l640.jpg"
     }
   ]
 }
