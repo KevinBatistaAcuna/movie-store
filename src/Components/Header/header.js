@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+import {Route} from 'react-router-dom';
 
 const json = './movies.json';
 
-class MovieTrailer extends Component {
+class Header extends Component {
   constructor(props) {
     super(props);
 
@@ -32,14 +32,25 @@ class MovieTrailer extends Component {
     let x = '';
     let obj = this.state.movies.peliculas;
     if(obj !== undefined){
-        x = obj[0].trailer;
-        console.log(obj[0].trailer);
+        // obj.forEach(function(el) {
+        //     x = el.nombre;
+        //     // console.log(el);
+        // });
+        x = obj.map(function (value) {
+            console.log(value);
+        });
+        // console.log(obj);
     }
     
+    // for (let key in obj.peliculas){
+    //     let result = obj.peliculas[1];
+    //     for(let test in result){
+    //         // console.log(result[1]);
+    //     }
+    //     console.log(result);
+    // }
     return(
-        <iframe width="420" height="315"
-            src={ x }>
-        </iframe>
+        <h1>{ x }</h1>
     ) 
   }
 //   render() {
@@ -53,4 +64,4 @@ class MovieTrailer extends Component {
 //   }
 }
 
-export default MovieTrailer;
+export default Header;
