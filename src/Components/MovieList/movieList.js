@@ -1,8 +1,12 @@
-
-import React, {Component} from 'react'
+import React, {Component} from 'react';
 import CarouselSlider from 'react-carousel-slider';
 import {BrowserRouter as Router, Link } from 'react-router-dom';
 import axios from 'axios';
+import './styles.css';
+import SimpleImageSlider from "react-simple-image-slider";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 class MovieList extends Component {
     
@@ -11,15 +15,8 @@ class MovieList extends Component {
         isFetch: true
       };
 
-      componentWillMount () {
-       /* const baseUrl = '/movies.json';
-        const response = await fetch(baseUrl);
-        console.log('lll')
-        const responseJson = await response.json();
-        console.log('data ->'+ responseJson)*/
-        /*this.setState( { MovieList: responseJson, isFetch: false } )*/
-        
-        axios.get('movies.json') // JSON File Path
+      componentWillMount () {        
+        axios.get('./movies.json') // JSON File Path
         .then( response => {
           this.setState({
             MovieList: response.data,isFetch: false
@@ -29,6 +26,17 @@ class MovieList extends Component {
         console.log(error);
       });     
       };
+
+      Eliminar = id => {
+        console.log('ID -> ' + id);
+
+        alert(this.state.MovieList.peliculas[id].nombre);
+
+       
+ 
+    };
+
+    
 
       
 
@@ -41,33 +49,41 @@ class MovieList extends Component {
           if (!this.state.MovieList ){
             return <div> No hay datos.</div>
           }
+          
  
-     
-       let peliculas =  this.state.MovieList.peliculas.map((item, index) => 
-            <Link to = {'/' + item.nombre} >       
-                <p>{item.nombre}</p>
-            </Link>
-        );
+      let peliculas =  this.state.MovieList.peliculas;
+      let pelImgs0 = [];
 
-        let sagas =  this.state.MovieList.sagas.map((item, index) => 
-        <Link to = {'/' + item.nombre} >       
-            <p>{item.nombre}</p>
-        </Link>
-    );
 
-    let series =  this.state.MovieList.series.map((item, index) => 
-    <Link to = {'/' + item.nombre} >       
-        <p>{item.nombre}</p>
-    </Link>
-    );  
+      for (var i = 0; i <26; i+=1) {
+        pelImgs0.push(peliculas[i]);
+      }
+      
+      for (var i = 26; i <26; i+=1) {
+        pelImgs0.push(peliculas[i]);
+      }
+
+      let sagas =  this.state.MovieList.sagas;
+
+      let series =  this.state.MovieList.series;
+
+
+        return (
+          <div>
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px", width:"auto"}} width={1350} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.Eliminar} showBullets={true} />     
+                                 
+      
         
-        return (<Router>
-            <CarouselSlider slideCpnts = {peliculas} />
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }}  width={550} height={550} images={sagas}/>
+        
+              
+         
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series}/>
+          </div>
+          
+      );
 
-            <CarouselSlider slideCpnts = {sagas} />
-
-            <CarouselSlider slideCpnts = {series} />
-        </Router>);
+      
     }
 }
 

@@ -6,7 +6,8 @@
       "cantidadDiscos": 1,
       "costo": 2500,
       "genero": "Comedia",
-      "trailer": "https://www.youtube.com/watch?v=xuZnmYjAKww"
+      "trailer": "https://www.youtube.com/watch?v=xuZnmYjAKww",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiumaqt1MfjAhXmwVkKHcNyCogQjRx6BAgBEAU&url=https%3A%2F%2Fdoblaje.fandom.com%2Fes%2Fwiki%2FUna_esposa_de_mentira&psig=AOvVaw2tjnpDrK_OH3chatWG0WPn&ust=1563855092530100" 
     },
     {
       "nombre": "La vida es bella",
