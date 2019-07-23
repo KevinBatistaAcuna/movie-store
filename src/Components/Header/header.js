@@ -1,67 +1,17 @@
 import React, { Component } from 'react';
 import {Route} from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Container, Row, Col, Navbar } from 'react-bootstrap';
 
-const json = './movies.json';
-
-class Header extends Component {
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      movies: {},
-      isLoading: true,
-      error: null,
-    };
-  }
-  componentDidMount() {
-    axios.get(json)
-        .then(response => {
-            this.setState({
-                movies: response.data,
-                isLoading: false,
-                error: null
-            })
-        })
-        .catch(error => this.setState({
-            error,
-            isLoading: false
-        }));
-  }
-
-  render(){
-    let x = '';
-    let obj = this.state.movies.peliculas;
-    if(obj !== undefined){
-        // obj.forEach(function(el) {
-        //     x = el.nombre;
-        //     // console.log(el);
-        // });
-        x = obj.map(function (value) {
-            console.log(value);
-        });
-        // console.log(obj);
-    }
-    
-    // for (let key in obj.peliculas){
-    //     let result = obj.peliculas[1];
-    //     for(let test in result){
-    //         // console.log(result[1]);
-    //     }
-    //     console.log(result);
-    // }
+function Header() {
     return(
-        <h1>{ x }</h1>
-    ) 
-  }
-//   render() {
-//     const child = this.state.movies.map((element) => {
-//       return <div>
-//         <p>{ element.data.peliculas[1].nombre }</p>
-//       </div>
-//     });
-
-//     return <div><div>{ child }</div></div>;
-//   }
+        <Container>
+            <Row>
+                <Col xs={12} md={8}>xs=12 md=8</Col>
+                <Col xs={12} md={4}>xs=12 md=4</Col>
+            </Row>
+        </Container>
+    )
 }
 
 export default Header;

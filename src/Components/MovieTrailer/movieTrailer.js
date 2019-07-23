@@ -42,15 +42,6 @@ class MovieTrailer extends Component {
         </iframe>
     ) 
   }
-//   render() {
-//     const child = this.state.movies.map((element) => {
-//       return <div>
-//         <p>{ element.data.peliculas[1].nombre }</p>
-//       </div>
-//     });
-
-//     return <div><div>{ child }</div></div>;
-//   }
 }
 
 export default MovieTrailer;
