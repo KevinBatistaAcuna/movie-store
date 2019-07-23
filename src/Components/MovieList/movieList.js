@@ -15,7 +15,9 @@ class MovieList extends Component {
     state = {
         MovieList: [],
         isFetch: true,
-        Movie:{}
+        Movie:[],
+        Saga:[],
+        Serie:[]
       };
 
       componentWillMount () {        
@@ -32,20 +34,43 @@ class MovieList extends Component {
 
       mostrarInformacion = id => {
 
-        console.log('PELICULA' + id)
+        this.state.Movie = [];
 
+        let vals = this.state.Movie;
 
-        let info = this.state.MovieList.peliculas[id];
-      
+        let info = JSON.stringify(this.state.MovieList.peliculas[id]);
 
-        console.log('PELICULA DETALLE' + info)
+        vals.push(info);
 
-        this.setState({ Movie:info });
-
-        console.log('PELICULA ESTADO' + this.state.Movie)
-        
-
+        this.setState({ Movie:vals })
     };
+
+    mostrarInformacionSagas = id => {
+
+      this.state.Saga = [];
+
+      let vals = this.state.Saga;
+
+      let info = JSON.stringify(this.state.MovieList.sagas[id]);
+
+      vals.push(info);
+
+      this.setState({ Saga:vals })
+  };
+
+  mostrarInformacionSeries = id => {
+
+    this.state.Serie = [];
+
+    let vals = this.state.Serie;
+
+    let info = JSON.stringify(this.state.MovieList.series[id]);
+
+    vals.push(info);
+
+    this.setState({ Serie:vals })
+};  
+
 
     render() {
 
@@ -64,18 +89,26 @@ class MovieList extends Component {
 
       let series =  this.state.MovieList.series;
 
-      let actual = this.state.Movie;
+      let PeliculaActual = this.state.Movie[0];
+
+      let SagaActual = this.state.Saga[0];
+
+      let SerieActual = this.state.Serie[0];
 
 
         return (
           <div>
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px", width:"auto"}} width={1350} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.mostrarInformacion} showBullets={true} />     
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px"}} width={1350} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.mostrarInformacion} showBullets={true} />     
 
-              <MovieDetail informacion={actual}/>      
+              <MovieDetail informacion={PeliculaActual}/>      
         
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }}  width={550} height={550} images={sagas}/>
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={550} images={sagas} slideDuration={0.5} onClickBullets={this.mostrarInformacionSagas} showBullets={true} />
+              
+              <MovieDetail informacion={SagaActual}/>  
                                
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series}/>
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series} slideDuration={0.5} onClickBullets={this.mostrarInformacionSeries} showBullets={true} />
+
+              <MovieDetail informacion={SerieActual}/> 
           </div>
           
       );
