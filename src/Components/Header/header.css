@@ -1,0 +1,39 @@
+.header{
+    background: #1082C7;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.complete{
+    width: 100%;
+}
+.nav-link:hover{
+    background: #5CBBF4;
+}
+.fa-shopping-cart::before{
+    content: "\f07a";
+}
+.cart-icon{
+    position: absolute;
+    right: 100px;
+    cursor: pointer;
+}
+.cartImg{
+    width: 10%;
+}
+.cartImg{
+    width: 30px;
+}
+.qty{
+    position: absolute;
+    background: red;
+    width: 25px;
+    height: 25px;
+    top: -14px;
+    right: -20px;
+    border: 1px solid red;
+    border-radius: 370px;
+    text-align: center;
+}
