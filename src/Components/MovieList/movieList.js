@@ -5,24 +5,24 @@ import axios from 'axios';
 import './styles.css';
 import SimpleImageSlider from "react-simple-image-slider";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Button} from 'react-bootstrap'
-import Dialog from 'react-bootstrap-dialog'
-
-import alertify from 'alertifyjs';
+import {Button} from 'react-bootstrap';
+import Dialog from 'react-bootstrap-dialog';
+import MovieDetail from '../MovieDetail/movieDetail';
 
 
 class MovieList extends Component {
     
     state = {
         MovieList: [],
-        isFetch: true
+        isFetch: true,
+        Movie:{}
       };
 
       componentWillMount () {        
         axios.get('./movies.json') // JSON File Path
         .then( response => {
           this.setState({
-            MovieList: response.data,isFetch: false
+            MovieList: response.data,isFetch: false, Movie:[]
         });
       })
       .catch(function (error) {
@@ -30,28 +30,22 @@ class MovieList extends Component {
       });     
       };
 
-      Eliminar = id => {
-        console.log('ID -> ' + id);
+      mostrarInformacion = id => {
 
-        this.dialog.show({
-          title: this.state.MovieList.peliculas[id].nombre,
-          body: 'How are you?',
-          actions: [
-            Dialog.OKAction()
-          ],
-          bsSize: 'small',
-          onHide: (dialog) => {
-            dialog.hide()
-            console.log('closed by clicking background.')
-          }
-        })
+        console.log('PELICULA' + id)
 
+
+        let info = this.state.MovieList.peliculas[id];
+      
+
+        console.log('PELICULA DETALLE' + info)
+
+        this.setState({ Movie:info });
+
+        console.log('PELICULA ESTADO' + this.state.Movie)
+        
 
     };
-
-    
-
-      
 
     render() {
 
@@ -70,18 +64,17 @@ class MovieList extends Component {
 
       let series =  this.state.MovieList.series;
 
+      let actual = this.state.Movie;
+
 
         return (
           <div>
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px", width:"auto"}} width={1350} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.Eliminar} showBullets={true} />     
+              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px", width:"auto"}} width={1350} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.mostrarInformacion} showBullets={true} />     
 
-              <Dialog ref={(component) => { this.dialog = component }} />                
-      
+              <MovieDetail informacion={actual}/>      
         
               <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }}  width={550} height={550} images={sagas}/>
-        
-              
-         
+                               
               <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series}/>
           </div>
           
