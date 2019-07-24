@@ -1,0 +1,12 @@
+.nomPelicula{
+    color: white;
+}
+.img {
+    max-width:550px;
+}
+.image-slider{
+    margin: 0px auto 10px !important;
+}
+.sliderTitle{
+    margin-top: 30px;
+}
