@@ -8,6 +8,12 @@ export default class MovieDetail extends React.Component {
         super(props)
         this.onClick = this.onClick.bind(this)
   }
+  addCart(){
+    let data = JSON.parse(this.props.informacion);
+
+    this.props.cart.push(data);
+    console.log(this.props.cart);
+  }
 
   onClick () {
     /*this.dialog.showAlert(this.props.informacion)*/
@@ -46,7 +52,7 @@ export default class MovieDetail extends React.Component {
   render () {
     return (
       <div class="text-center">
-        <Button onClick={this.onClick}>Show alert</Button>
+        <Button onClick={this.onClick}>Ver Detalle</Button>
         <Dialog ref={(el) => { this.dialog = el }}/>     
       </div>
     )

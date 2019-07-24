@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-import {Route} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import MovieList from '../MovieList/movieList';
 import Header from '../Header/header';
 
 function Main(){
+
     return(
         <React.Fragment>
             <Header />
@@ -11,5 +12,4 @@ function Main(){
         </React.Fragment>
     )
 }
-
 export default Main

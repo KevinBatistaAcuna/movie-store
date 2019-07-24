@@ -1,5 +1,9 @@
 .header{
     background: #1082C7;
+    position: fixed;
+    top: 0;
+    left: 10%;
+    z-index: 2;
 }
 .logo{
     font-size: 30px;

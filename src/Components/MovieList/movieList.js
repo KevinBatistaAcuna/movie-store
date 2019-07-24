@@ -17,7 +17,8 @@ class MovieList extends Component {
         isFetch: true,
         Movie:[],
         Saga:[],
-        Serie:[]
+        Serie:[],
+        Cart:[]
       };
 
       componentWillMount () {        
@@ -25,24 +26,24 @@ class MovieList extends Component {
         .then( response => {
           this.setState({
             MovieList: response.data,isFetch: false, Movie:[]
+          });
+        })
+        .catch(function (error) {
+          console.log(error);
         });
-      })
-      .catch(function (error) {
-        console.log(error);
-      });     
       };
 
-      mostrarInformacion = id => {
+    mostrarInformacion = id => {
 
-        this.state.Movie = [];
+      this.state.Movie = [];
 
-        let vals = this.state.Movie;
+      let vals = this.state.Movie;
 
-        let info = JSON.stringify(this.state.MovieList.peliculas[id]);
+      let info = JSON.stringify(this.state.MovieList.peliculas[id]);
 
-        vals.push(info);
+      vals.push(info);
 
-        this.setState({ Movie:vals })
+      this.setState({ Movie:vals })
     };
 
     mostrarInformacionSagas = id => {
@@ -69,8 +70,7 @@ class MovieList extends Component {
     vals.push(info);
 
     this.setState({ Serie:vals })
-};  
-
+  };  
 
     render() {
 
@@ -97,23 +97,20 @@ class MovieList extends Component {
 
 
         return (
-          <div>
+          <div class="body">
               <h2 class="text-center sliderTitle">Peliculas</h2>
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px"}} width={550} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.mostrarInformacion} showBullets={true}/>     
-              <MovieDetail informacion={PeliculaActual}/>      
+              <SimpleImageSlider style={{ margin: "0 auto", marginTop: "50px"}} width={550} height={550} images={peliculas} slideDuration={0.5} onClickBullets={this.mostrarInformacion} showBullets={true}/>     
+              <MovieDetail informacion={PeliculaActual} cart={this.state.Cart}/>      
         
               <h2 class="text-center sliderTitle">Sagas</h2>
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={550} images={sagas} slideDuration={0.5} onClickBullets={this.mostrarInformacionSagas} showBullets={true} />
-              <MovieDetail informacion={SagaActual}/>  
+              <SimpleImageSlider style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={550} images={sagas} slideDuration={0.5} onClickBullets={this.mostrarInformacionSagas} showBullets={true} />
+              <MovieDetail informacion={SagaActual} cart={this.state.Cart}/>  
                  
               <h2 class="text-center sliderTitle">Series</h2>              
-              <SimpleImageSlider  style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series} slideDuration={0.5} onClickBullets={this.mostrarInformacionSeries} showBullets={true} />
-              <MovieDetail informacion={SerieActual}/> 
+              <SimpleImageSlider style={{ margin: "0 auto", marginTop: "50px" }} width={550} height={600} images={series} slideDuration={0.5} onClickBullets={this.mostrarInformacionSeries} showBullets={true} />
+              <MovieDetail informacion={SerieActual} cart={this.state.Cart}/>
           </div>
-          
       );
-
-      
     }
 }
 
