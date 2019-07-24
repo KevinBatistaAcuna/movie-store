@@ -6,7 +6,7 @@ import './header.css';
 
 function Header() {
     return(
-        <Container fluid={true} className="header">
+        <Container className="header">
             <Row>
                 <Col md={{span:4, offset:1}} sm={12} className="logo">
                     Movies Store
